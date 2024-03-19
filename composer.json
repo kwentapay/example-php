@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/kwentapay/api-client-php.git"
+    }
+  ],
+  "require": {
+    "kwentapay/api-client-php": "*@dev"
+  }
+}
